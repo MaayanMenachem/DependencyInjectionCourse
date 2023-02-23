@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Jab/0.6.0": {
+        "type": "package",
+        "build": {
+          "build/Jab.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jab/0.6.0": {
+      "sha512": "34HLqFgfIndna1ctSHTOxrSPB9G4+iJD+YEpm1aHStZiYgMiB8HzFkt/CIuO+ZpgJL0/ZIVU+TTKv3wLELCfZw==",
+      "type": "package",
+      "path": "jab/0.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "analyzers/dotnet/roslyn3.11/Jab.Roslyn3.dll",
+        "analyzers/dotnet/roslyn4.0/Jab.dll",
+        "build/Jab.targets",
+        "jab.0.6.0.nupkg.sha512",
+        "jab.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Jab >= 0.6.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\USER\\Downloads\\Dependency injection course code - 8\\Dependency injection course code - 8\\5.Advanced\\DependencyInjectionFuture.ConsoleApp\\DependencyInjectionFuture.ConsoleApp.csproj",
+      "projectName": "DependencyInjectionFuture.ConsoleApp",
+      "projectPath": "C:\\Users\\USER\\Downloads\\Dependency injection course code - 8\\Dependency injection course code - 8\\5.Advanced\\DependencyInjectionFuture.ConsoleApp\\DependencyInjectionFuture.ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Downloads\\Dependency injection course code - 8\\Dependency injection course code - 8\\5.Advanced\\DependencyInjectionFuture.ConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Jab": {
+            "target": "Package",
+            "version": "[0.6.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.12, 6.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.12, 6.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.12, 6.0.12]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.12, 6.0.12]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Users\\USER\\.dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

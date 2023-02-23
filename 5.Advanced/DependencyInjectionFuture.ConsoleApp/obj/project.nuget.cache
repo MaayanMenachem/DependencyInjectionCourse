@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydsBQYDicT/Wtohllpuhy8LsMxJUrq+DXuos4G0WfIgpRvl9WXqNRSvCr2KHV3knNH6S67r14r57Ke/NjT3ZqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Downloads\\Dependency injection course code - 8\\Dependency injection course code - 8\\5.Advanced\\DependencyInjectionFuture.ConsoleApp\\DependencyInjectionFuture.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\jab\\0.6.0\\jab.0.6.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

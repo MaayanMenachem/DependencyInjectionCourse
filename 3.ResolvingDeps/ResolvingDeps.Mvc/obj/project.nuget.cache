@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Luv4eH+mA49g3skkaDoxwDf1vwysKlNicTs26GAqr/6OFaUOX9xdv/NvGFu+uKajHMENdprowJwG06VQy4Nhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Downloads\\Dependency injection course code - 8\\Dependency injection course code - 8\\3.ResolvingDeps\\ResolvingDeps.Mvc\\ResolvingDeps.Mvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
